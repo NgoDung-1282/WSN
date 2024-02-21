@@ -1,0 +1,19 @@
+Added Component: Designator=lovit1(PCBComponent_1)
+Added Component: Designator=lovit2(PCBComponent_1)
+Added Component: Designator=lovit3(PCBComponent_1)
+Added Component: Designator=lovit4(PCBComponent_1)
+Added Component: Designator=USB1(USB Micro 5p SMD)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "MicroUSB MK5P SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=USB1-1
+Added Pin To Net: NetName=USB_N Pin=USB1-2
+Added Pin To Net: NetName=USB_P Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Member To Class: ClassName=SCH_GW Member=Component lovit1 Vit OC
+Added Member To Class: ClassName=SCH_GW Member=Component lovit2 Vit OC
+Added Member To Class: ClassName=SCH_GW Member=Component lovit3 Vit OC
+Added Member To Class: ClassName=SCH_GW Member=Component lovit4 Vit OC
+Added Member To Class: ClassName=SCH_GW Member=Component USB1 USB Micro 5p SMD

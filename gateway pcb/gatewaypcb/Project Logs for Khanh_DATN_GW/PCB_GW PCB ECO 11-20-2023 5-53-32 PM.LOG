@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=IO4 Pin=L3-2
+Removed Pin From Net: NetName=IO21 Pin=L4-2
+Removed Pin From Net: NetName=3v3 Pin=R2-2
+Removed Pin From Net: NetName=3v3 Pin=R3-2
+Removed Member From Class: ClassName=SCH_GW Member=lovit1
+Removed Member From Class: ClassName=SCH_GW Member=lovit2
+Removed Member From Class: ClassName=SCH_GW Member=lovit3
+Removed Member From Class: ClassName=SCH_GW Member=lovit4
+Added Pin To Net: NetName=3v3 Pin=L3-1
+Added Pin To Net: NetName=3v3 Pin=L4-1
+Added Pin To Net: NetName=IO4 Pin=R2-1
+Added Pin To Net: NetName=IO21 Pin=R3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R2-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R3-2
+Added Net: Name=NetL4_2
+Added Room: Name=SCH_GW

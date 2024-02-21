@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=SCH_GW Member=lovit?
+Added Component: Designator=lovit3(PCBComponent_1)
+Added Component: Designator=lovit4(PCBComponent_1)
+Added Member To Class: ClassName=SCH_GW Member=Component lovit3 Vit OC
+Added Member To Class: ClassName=SCH_GW Member=Component lovit4 Vit OC
+Added Room: Name=SCH_GW
